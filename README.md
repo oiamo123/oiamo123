@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oiamo123&hide=odin-recipes,curriculum,javascript-exercises,Javascript30,css-exercises&show=Portfolio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
